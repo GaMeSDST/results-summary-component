@@ -4,14 +4,14 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Table of contents
 
--[Links](#links)
--[Built with](#built-with)
--[Author](#author)
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/resultssummarycomponent-with-simple-html-and-css-g0JThUmioD)
+- [Live Site URL](https://gamesdst.github.io/results-summary-component/)
 
 ### Built with
 
