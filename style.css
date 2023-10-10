@@ -129,7 +129,7 @@ body, html {
     min-height: 20px;
     margin-bottom: 10px;
     color: hsl(283, 4%, 65%);
-    min-width: 80%
+    min-width: 83%;
 }
 
 .summary div svg {
@@ -208,11 +208,16 @@ button:hover {
 }
 
 @media screen and (max-width: 560px) {
+
+    .summary div {
+        max-width: 90%;
+    }
     
    .endit{
         display: block;
-          position: fixed;
-            right: 35px;
+          position: absolute;
+            right: -8%;
+            margin-top: auto;
         }
 
         .main {
@@ -233,6 +238,7 @@ button:hover {
 
         .alittle {
             max-width: 100%;
+            position: relative;
         }
 
         .results {
